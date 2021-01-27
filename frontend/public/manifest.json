@@ -1,0 +1,8 @@
+{
+  "short_name": "Oslo Bikes",
+  "name": "Oslo Bikes",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
