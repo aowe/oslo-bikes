@@ -32,3 +32,6 @@ Og backend prosjektet med:
 `mvn spring-boot:run`
 
 Da kan man nå frontend på http://localhost:3000/ og backend-endepunktet på http://localhost:8080/api/bikes
+
+---
+Inneholder data under Norsk lisens for offentlige data (NLOD) 2.0 tilgjengeliggjort av Oslo Bysykkel.
